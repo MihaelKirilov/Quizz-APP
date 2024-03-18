@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [@Vercel]((https://quizz-app-blue.vercel.app/)/)
+- Live Site URL: [@Vercel](https://quizz-app-blue.vercel.app/)
 ### Built with
 
 - Semantic HTML5 markup
