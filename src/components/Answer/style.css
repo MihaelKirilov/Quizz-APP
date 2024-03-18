@@ -1,0 +1,9 @@
+.answer {
+  border-radius: 15px;
+  border: 1px solid #293264;
+  padding: 0.5em 1em;
+  font-size: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
